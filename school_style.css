@@ -122,12 +122,12 @@ css
         border-collapse: collapse;
         margin-top: 10px;
       }
-      th {
-        background-color #1B5E20;
-        color: white;
-        padding: 10px;
-        text-align: left;
-      }
+    th {
+  background-color: #1B5E20;
+  color: white;
+  padding: 10px;
+  text-align: left;
+    }
       td {
         padding: 10px 15px;
         border-bottom: 1px solid #dddddd;
